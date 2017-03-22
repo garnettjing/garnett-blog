@@ -1,3 +1,10 @@
-# My Awesome Book
+# 文档总览
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+* 更新点1：合同启用第三方法大大签署以及托管
+* 更新点2：新用户新增优先撮合特权
+* 更新点3：新增指纹
+* 更新点4：企业互赠红包升级为好友互赠红包
+* 更新点5：新增5日定期
+
+
+
